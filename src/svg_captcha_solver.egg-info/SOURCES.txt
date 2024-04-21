@@ -1,0 +1,15 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/solvers/__init__.py
+src/solvers/svgcaptcha/__init__.py
+src/solvers/svgcaptcha/solver.py
+src/svg_captcha_solver.egg-info/PKG-INFO
+src/svg_captcha_solver.egg-info/SOURCES.txt
+src/svg_captcha_solver.egg-info/dependency_links.txt
+src/svg_captcha_solver.egg-info/top_level.txt
+tests/test_divide_by_three.py
+tests/test_multiply_by_three.py
